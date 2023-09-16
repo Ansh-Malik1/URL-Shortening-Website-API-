@@ -359,6 +359,9 @@ footer{
         width: 90%;
         margin-top: 3em;
     }
+    .output{
+        width:90%
+    }
     .outputCont{
         width: 100%;
     }
